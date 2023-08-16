@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [GitHub.com/badalsinghania](GitHub.com/badalsinghania)
   
 - 👨‍💻 I am also an active member of  [www.linkedin.com/in/badalsinghania](www.linkedin.com/in/badalsinghania)
-- 
+  
 - 📝 I regularly write articles on [Www.badalsingania.blogger.com](Www.badalsingania.blogger.com)
 
 - 💬 Ask me about **anything**
