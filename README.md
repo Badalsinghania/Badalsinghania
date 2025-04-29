@@ -21,7 +21,7 @@
 - 🌱 I’m expanding my knowledge in **multiple programming languages and technologies**
 - 👯 I’m open to collaborating on **any interesting project**
 - 👨‍💻 Check out my work: [GitHub.com/badalsinghania](https://github.com/badalsinghania)
-- 📝 I write articles at: [badalsingania.blogger.com](https://badalsingania.blogger.com)
+- 📝 I write articles at: [badalsingania.blogger.com](https://beyondbordersinsights.blogspot.com/)
 - 💬 Ask me about **anything tech-related**
 - 📫 Reach me at: **badalsinghania123@gmail.com**
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/badalsinghania)
