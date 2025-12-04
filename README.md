@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on a **E-commerce for Abhinavsilk**
+- 🔭 I’m currently working in **Department of Excise and Prohibition Jharkhand**
 - 🌱 I’m expanding my knowledge in **multiple programming languages and technologies**
 - 👯 I’m open to collaborating on **any interesting project**
 - 👨‍💻 Check out my work: [GitHub.com/badalsinghania](https://github.com/badalsinghania)
