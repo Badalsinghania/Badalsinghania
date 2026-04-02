@@ -23,7 +23,7 @@
 - 👨‍💻 Check out my work: [GitHub.com/badalsinghania](https://github.com/badalsinghania)
 - 📝 I write articles at: [badalsingania.blogger.com](https://beyondbordersinsights.blogspot.com/)
 - 💬 Ask me about **anything tech-related**
-- 📫 Reach me at: **badalsinghania123@gmail.com**
+- 📫 Reach me at: **badalsingh111official@gmail.com**
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/badalsinghania)
 
 ---
