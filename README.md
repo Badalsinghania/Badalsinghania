@@ -33,7 +33,7 @@
 <p align="left">
   <a href="https://x.com/badalsinghania_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" alt="X" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/badalsinghania" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/badalsinghania_" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://instagram.com/baadalsinghh" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
